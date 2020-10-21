@@ -3,11 +3,14 @@ maintainer 'The Authors'
 maintainer_email 'you@example.com'
 license 'All Rights Reserved'
 description 'Installs/Configures apachecb'
-version '0.1.1'
+version '0.1.2'
 chef_version '>= 15.0'
 
 # 0.1.1 
 # Updating Webserver content
+#
+# 0.1.2
+# Testing & Uploading to Git Hub
 
 # The `issues_url` points to the location where issues for this cookbook are
 # tracked.  A `View Issues` link will be displayed on this cookbook's page when

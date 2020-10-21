@@ -4,6 +4,10 @@
 #
 # Copyright:: 2020, The Authors, All Rights Reserved.
 #
+# Uploading cookbook to GitHub
+#
+# Testing git add, git commit & git push
+#
 package 'httpd' do
   action :install
 end
