@@ -27,3 +27,7 @@ template '/var/www/html/index4.html' do
             :myname => node['apachecb']['myname']
               )
 end
+
+file '/tmp/test' do
+  action :create
+end
